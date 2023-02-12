@@ -1,6 +1,6 @@
 from typing import List
 
-from fastapi import FastAPI
+from fastapi import FastAPI, Form
 from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse
 from starlette.staticfiles import StaticFiles
@@ -37,6 +37,14 @@ index_html = open('templates/index.html', 'r', encoding='utf-8').read()
 @app.get("/")
 async def root():
     return HTMLResponse(index_html)
+
+
+@app.put('/', description='密码通过看启动日志获取，每次重启都会变')
+async def put_root(pwd: str, token: str):
+    if pwd != settings.PASSWORD:
+        return {'code': 403, 'msg': 'wrong password'}
+    settings.API_KEY = token
+    return {'code': 200, 'msg': 'ok'}
 
 
 @app.post("/")
