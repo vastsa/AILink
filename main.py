@@ -55,7 +55,7 @@ async def root(message: MessageBody):
     data = {
         "model": "text-davinci-003",
         "prompt": message.prompt,
-        "max_tokens": 10000 if message.token else settings.FREE_TOKENS,
+        "max_tokens": 1000 if message.token else settings.FREE_TOKENS,
         "temperature": 0.9,
         "frequency_penalty": 0,
         "presence_penalty": 0,
