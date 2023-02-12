@@ -1,5 +1,6 @@
 class Settings:
     API_KEY = ''
+    FREE_TOKENS = 100
 
     def headers(self, key=None):
         return {
