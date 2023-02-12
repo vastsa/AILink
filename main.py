@@ -72,6 +72,7 @@ async def root(message: MessageBody):
                 return {'code': 500, 'msg': 'error', 'data': 'API_KEY无效或者过期'}
             else:
                 data = res['choices'][0]['text']
+                print(res['usage'])
                 msg = '回复过长，已被截断，如需更长的回复，请购买API_KEY' \
                     if res['usage']['completion_tokens'] == settings.FREE_TOKENS else 'success'
                 return {'code': 200, 'msg': msg, 'data': [message.msg, data]}

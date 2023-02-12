@@ -2,7 +2,7 @@ import uuid
 
 
 class Settings:
-    API_KEY = ''
+    API_KEY = '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'
     FREE_TOKENS = 100
     PASSWORD = None
 
