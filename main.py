@@ -47,7 +47,7 @@ async def root(message: MessageBody):
     data = {
         "model": "text-davinci-003",
         "prompt": message.prompt,
-        "max_tokens": 10000 if message.token else 10,
+        "max_tokens": 10000 if message.token else settings.FREE_TOKENS,
         "temperature": 0.9,
         "frequency_penalty": 0,
         "presence_penalty": 0,
@@ -65,5 +65,5 @@ async def root(message: MessageBody):
             else:
                 data = res['choices'][0]['text']
                 msg = '回复过长，已被截断，如需更长的回复，请购买API_KEY' \
-                    if res['usage']['completion_tokens'] < res['usage']['total_tokens'] else 'success'
+                    if res['usage']['completion_tokens'] < settings.FREE_TOKENS else 'success'
                 return {'code': 200, 'msg': msg, 'data': [message.msg, data]}
