@@ -67,3 +67,9 @@ async def root(message: MessageBody):
                 msg = '回复过长，已被截断，如需更长的回复，请购买API_KEY' \
                     if res['usage']['completion_tokens'] < settings.FREE_TOKENS else 'success'
                 return {'code': 200, 'msg': msg, 'data': [message.msg, data]}
+
+
+if __name__ == '__main__':
+    import uvicorn
+
+    uvicorn.run('main:app', host='0.0.0.0', port=8000, reload=False, debug=False, workers=3)
