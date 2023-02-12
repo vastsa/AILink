@@ -1,6 +1,11 @@
 # ChatGPT连续对话网页版
-系统自带API Key限制Token长度，自定义Token不限制长度
 
+# 高级版
+目前高级版已支持根据英文生成图片
+购买链接：https://www.lanshop.me/buy/11
+展示地址：https://chatx.me
+
+系统自带API Key限制Token长度，自定义Token不限制长
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/efd99d4ab6fa43f984b683d2ff0379e6.png)
 
 回复过长提示
