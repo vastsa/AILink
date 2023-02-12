@@ -23,7 +23,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ env.DOCKER_USERNAME }}/aichat:latest
+        tags: ${{ env.DOCKER_USERNAME }}/aichat:1.0
         platform: linux/amd64
         username: ${{ env.DOCKER_USERNAME }}
         password: ${{ env.DOCKER_PASSWORD }}
@@ -40,7 +40,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ env.DOCKER_USERNAME }}/aichat:arm
+        tags: ${{ env.DOCKER_USERNAME }}/aichat:1.2
         platform: linux/arm64
         username: ${{ env.DOCKER_USERNAME }}
         password: ${{ env.DOCKER_PASSWORD }}
