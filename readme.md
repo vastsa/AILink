@@ -9,7 +9,14 @@
 Token输入
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/84a06e3461e549cd92e9c748f4eb1903.png)
 # Docker一键部署
+## AMD
 ```shell
+docker run -d --restart=always -p 8000:8000 --name aichat lanol/aichat:latest
 ```
+## ARM
+```shell
+docker run -d --restart=always -p 8000:8000 --name aichat lanol/aichat:arm
+```
+
 # 赞助我
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/6402263fb2ff4fddad51cb64fa66f4fb.png)
