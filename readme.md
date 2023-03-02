@@ -1,6 +1,7 @@
 # ChatGPT 连续对话网页版
 
 ## 高级版
+已更新至gpt3.5模型，优化显示
 
 目前高级版已支持根据描述生成图片，实时对话
 
@@ -10,6 +11,7 @@
 
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/88d117b9787b42f6bdf4a592b897241c.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/fa273cc78ee1410bb5f419139c4b795d.png)
+![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/b0db30599d76479c9ab65cb4adfa7619.png)
 
 ## 开源版
 
