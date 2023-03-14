@@ -1,5 +1,10 @@
 # ChatGPT 连续对话网页版
 
+
+## 商业版
+用户登录注册，邀请激励，在线支付，角色扮演
+![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/20dee9cc69a147259dc186ce79107c37.png)
+![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/ba41913d15534d708bcd868558f689e7.png)
 ## 高级版
 已更新至gpt3.5模型，优化显示
 
