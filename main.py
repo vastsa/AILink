@@ -65,7 +65,7 @@ async def root(message: MessageBody):
         ]
     }
     async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(verify_ssl=False)) as session:
-        async with session.post('https://api.openai.com/v1/completions', headers=settings.headers(message.token),
+        async with session.post('https://ai.mdzx.me/v1/completions', headers=settings.headers(message.token),
                                 json=data) as resp:
             res = await resp.json()
             if res.get('error'):
