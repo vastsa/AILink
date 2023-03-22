@@ -5,6 +5,7 @@
 V：singdev
 TG:vastol
 
+自主下单：https://shop.827728.xyz/
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4
 演示地址：https://ai.cik.ink
