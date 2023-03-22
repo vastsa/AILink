@@ -1,6 +1,10 @@
 # ChatGPT 连续对话网页版
 
 
+## 联系方式：
+V：singdev
+TG:vastol
+
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4
 演示地址：https://ai.cik.ink
