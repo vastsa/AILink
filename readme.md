@@ -17,9 +17,7 @@ TG:vastol
 
 目前高级版已支持根据描述生成图片，实时对话
 
-购买链接：https://www.zuuu.net/links/E221026C?go=1
-
-展示地址：https://ai.cik.ink
+最新链接发布地址：https://ai.cik.ink
 
 交流Q群：716507008
 
