@@ -12,8 +12,11 @@ QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
 
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4
-演示地址：https://ai.cik.ink
+
+最新链接发布地址：https://ai.cik.ink
+
 文档地址：https://singdev.notion.site/AILink-0b61364ab7724e39a66d28e9bbebc689
+
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/20dee9cc69a147259dc186ce79107c37.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/ba41913d15534d708bcd868558f689e7.png)
 ## 高级版
