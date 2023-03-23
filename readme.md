@@ -3,9 +3,13 @@
 
 ## 联系方式：
 V：singdev
+
 TG:vastol
 
+QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
+
 自主下单：https://shop.827728.xyz/
+
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4
 演示地址：https://ai.cik.ink
@@ -18,8 +22,6 @@ TG:vastol
 目前高级版已支持根据描述生成图片，实时对话
 
 最新链接发布地址：https://ai.cik.ink
-
-交流Q群：716507008
 
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/3dccd981881b40c082c82c6ef84b7690.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/88d117b9787b42f6bdf4a592b897241c.png)
