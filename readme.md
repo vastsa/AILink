@@ -12,6 +12,7 @@ QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
 
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4
+欲购从速，即将涨价四位数，正在对接Mj绘画
 
 最新链接发布地址：https://ai.cik.ink
 
