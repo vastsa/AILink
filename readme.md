@@ -16,7 +16,8 @@ QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
 最新链接发布地址：https://ai.cik.ink
 
 文档地址：https://docs.ailink.pw/
-
+![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1ULa.png)
+![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1Dxw.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/20dee9cc69a147259dc186ce79107c37.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/ba41913d15534d708bcd868558f689e7.png)
 ## 高级版
@@ -25,7 +26,6 @@ QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
 目前高级版已支持根据描述生成图片，实时对话
 
 最新链接发布地址：https://ai.cik.ink
-![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1Dxw.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/3dccd981881b40c082c82c6ef84b7690.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/88d117b9787b42f6bdf4a592b897241c.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/fa273cc78ee1410bb5f419139c4b795d.png)
