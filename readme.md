@@ -11,10 +11,11 @@ V：singdev
 Midjourney绘图已上线
 
 文档地址：https://docs.ailink.pw/
-![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1ULa.png)
-![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1Dxw.png)
-![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/20dee9cc69a147259dc186ce79107c37.png)
-![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/ba41913d15534d708bcd868558f689e7.png)
+![i9m12p.png](https://i.328888.xyz/2023/04/27/i9m12p.png)
+![i9pyNZ.png](https://i.328888.xyz/2023/04/27/i9pyNZ.png)
+![i9pkWP.png](https://i.328888.xyz/2023/04/27/i9pkWP.png)
+![i9p0pX.png](https://i.328888.xyz/2023/04/27/i9p0pX.png)
+
 ## 高级版
 已更新至gpt4模型，优化显示
 
