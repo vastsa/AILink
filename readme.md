@@ -3,7 +3,7 @@
 
 ## 联系方式：
 V：singdev
-自助下单：https://shop.827728.xyz/
+自助下单：https://shop.aixk.net/
 
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4，Midjourney绘图
