@@ -3,11 +3,6 @@
 
 ## 联系方式：
 V：singdev
-
-TG:vastol
-
-QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
-
 自助下单：https://shop.827728.xyz/
 
 ## 商业版
