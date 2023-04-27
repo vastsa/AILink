@@ -1,4 +1,4 @@
-# ChatGPT 连续对话网页版
+# ChatGPT 商业版，支持Midjourney绘图，GPT4
 
 
 ## 联系方式：
@@ -11,10 +11,9 @@ QQ频道：点击链接加入QQ频道【ChatX】：https://pd.qq.com/s/4mf03t8xs
 自助下单：https://shop.827728.xyz/
 
 ## 商业版
-用户登录注册，邀请激励，在线支付，角色扮演，GPT4
+用户登录注册，邀请激励，在线支付，角色扮演，GPT4，Midjourney绘图
 欲购从速，即将涨价四位数，正在对接Mj绘画
-
-最新链接发布地址：https://ai.cik.ink
+Midjourney绘图已上线
 
 文档地址：https://docs.ailink.pw/
 ![www.lanol.cn](https://i.328888.xyz/2023/04/20/iF1ULa.png)
