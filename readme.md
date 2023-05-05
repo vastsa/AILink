@@ -13,6 +13,7 @@ Midjourney绘图已上线
 文档地址：https://docs.ailink.pw/
 ![i9m12p.png](https://i.328888.xyz/2023/04/27/i9m12p.png)
 ![i9pyNZ.png](https://i.328888.xyz/2023/04/27/i9pyNZ.png)
+![iTbtYp.png](https://i.328888.xyz/2023/05/05/iTbtYp.png)
 ![i9pkWP.png](https://i.328888.xyz/2023/04/27/i9pkWP.png)
 ![i9p0pX.png](https://i.328888.xyz/2023/04/27/i9p0pX.png)
 
