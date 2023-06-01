@@ -6,7 +6,7 @@ V：singdev
 自助下单：https://shop.aixk.net/
 
 ## 商业版
-用户登录注册，邀请激励，在线支付，角色扮演，GPT4，Midjourney绘图
+用户登录注册，邀请激励，充值返现，在线支付，角色扮演，GPT4，Midjourney绘图
 
 Midjourney绘图已上线
 
