@@ -7,7 +7,7 @@ V：singdev
 
 ## 商业版
 用户登录注册，邀请激励，在线支付，角色扮演，GPT4，Midjourney绘图
-欲购从速，即将涨价四位数，正在对接Mj绘画
+
 Midjourney绘图已上线
 
 文档地址：https://docs.ailink.pw/
