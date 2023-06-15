@@ -4,6 +4,7 @@
 ## 联系方式：
 V：singdev
 自助下单：https://shop.aixk.net/
+更新日志：https://ailink.aixk.net/course/env/log.html
 
 ## 商业版
 用户登录注册，邀请激励，充值返现，在线支付，角色扮演，GPT4，Midjourney绘图
