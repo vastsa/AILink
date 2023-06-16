@@ -4,6 +4,11 @@
 ## 联系方式：
 V：singdev
 自助下单：https://shop.aixk.net/
+
+已连续更新三个多月，让你的钱花的物超所值
+以四位数的投入，换取五位数六位数的收入
+ailink，与你一起成长
+
 更新日志：https://ailink.aixk.net/course/env/log.html
 
 ## 商业版
