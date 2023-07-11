@@ -14,11 +14,10 @@ ailink，与你一起成长
 更新日志：https://ailink.aixk.net/course/env/log.html
 
 ## 商业版
-用户登录注册，邀请激励，充值返现，在线支付，角色扮演，GPT4，Midjourney绘图
-
-Midjourney绘图已上线
-
+用户手机短信注册，登录，邀请激励，充值返现，支持主流支付平台，支持自定义模型接口，模型名称，已对接超多模型厂商，接入midj绘图，轻应用模块
+![model](https://m.kaka.casa/jHln9g.png)
 文档地址：https://docs.ailink.pw/
+
 ![i9m12p.png](https://i.328888.xyz/2023/04/27/i9m12p.png)
 ![i9pyNZ.png](https://i.328888.xyz/2023/04/27/i9pyNZ.png)
 ![iTbtYp.png](https://i.328888.xyz/2023/05/05/iTbtYp.png)
