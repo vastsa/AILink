@@ -1,15 +1,16 @@
-# ChatGPT 商业版，支持Midjourney绘图，GPT4，Cluade，Azure，微信登录，思维导图
+# ChatGPT 商业版，支持Midjourney绘图，GPT4，Cluade，Azure，微信登录，思维导图，用户手机短信注册，登录，邀请激励，充值返现，支持主流支付平台，支持自定义模型接口，模型名称，已对接超多模型厂商，接入midj绘图，轻应用模块
 
 
 ## 联系方式：
-V：singdev
+商业合作联系微信：SingDev
+
 自助下单：https://shop.aixk.net/
 
 已连续更新三个多月，让你的钱花的物超所值
 
 以四位数的投入，换取五位数六位数的收入
 
-ailink，与你一起成长
+ailink，与你一起扬帆起航
 
 更新日志：https://ailink.aixk.net/course/env/log.html
 
