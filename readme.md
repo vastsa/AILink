@@ -2,14 +2,12 @@
 
 
 ## 联系方式：
-V：singdev
+商务合作联系V：singdev
 自助下单：https://shop.aixk.net/
 
-已连续更新三个多月，让你的钱花的物超所值
+已连续更新三个多月，售后有保障，质量看得见，以四位数的投入，换取五位数六位数的收入
 
-以四位数的投入，换取五位数六位数的收入
-
-ailink，与你一起成长
+ailink，与你一起扬帆起航
 
 更新日志：https://ailink.aixk.net/course/env/log.html
 
