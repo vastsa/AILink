@@ -1,4 +1,4 @@
-# ChatGPT 商业版，支持Midjourney绘图，GPT4，Cluade，Azure，微信登录，思维导图
+# ChatGPT 商业版，支持Midjourney绘图，GPT4，Cluade，Azure，微信登录，思维导图，文心，智谱，通义
 
 
 ## 联系方式：
