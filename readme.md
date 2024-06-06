@@ -18,7 +18,6 @@ ailink，与你一起扬帆起航
 
 目前高级版已支持根据描述生成图片，实时对话
 
-最新链接发布地址：https://ai.cik.ink
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/03/3dccd981881b40c082c82c6ef84b7690.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/88d117b9787b42f6bdf4a592b897241c.png)
 ![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/fa273cc78ee1410bb5f419139c4b795d.png)
