@@ -2,7 +2,6 @@
 
 
 ## 联系方式：
-商务合作联系V：singdev
 自助下单：https://shop.aixk.net/
 
 ## 商业版
