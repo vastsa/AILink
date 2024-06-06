@@ -7,27 +7,12 @@
 ## 商业版
 用户手机短信注册，登录，邀请激励，充值返现，支持主流支付平台，支持自定义模型接口，模型名称，已对接超多模型厂商，接入midj绘图，轻应用模块，百度审核，关键词拦截过滤，百度文心一言
 
-已连续更新半年，售后有保障，质量看得见，以四位数的投入，换取五位数六位数的收入
-
 ailink，与你一起扬帆起航
 
 更新日志：https://ailink.aixk.net/course/env/log.html
 
-![model](https://m.kaka.casa/jHln9g.png)
-
 文档地址：https://docs.ailink.pw/
 
-不从众！不抄袭！插件功能已上线，全网首发，可以自己用任何方式按照接口格式编写插件，并且可以收费提供给其他ailink用户使用
-![1692641746886.png](https://img.aixk.net/lHjpqQ.png)
-![1692641849584.png](https://img.aixk.net/SMSarj.png)
-![1692641863689.png](https://img.aixk.net/Fmylwu.png)
-![1692641890972.png](https://img.aixk.net/Pc9nvv.png)
-![1692641919481.png](https://img.aixk.net/6kW5V2.png)
-![1692642012526.png](https://img.aixk.net/3ezudL.png)
-![1692642040927.png](https://img.aixk.net/374V46.png)
-![1692642068648.png](https://img.aixk.net/XYWipD.png)
-![1692642088929.png](https://img.aixk.net/PxwwEx.png)
-![1692642108357.png](https://img.aixk.net/9EBBIB.png)
 ## 高级版
 已更新至gpt4模型，优化显示
 
